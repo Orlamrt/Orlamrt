@@ -14,7 +14,7 @@
 
 ## 🚀 Qué hago
 
-Soy CTO y fundador de **Soluciones en Innovación TER-IA**, empresa mexicana de software e IA. Me encargo de producto, tecnología y operación técnica, y construyo soluciones que las pymes pueden usar desde el primer día.
+Soy CTO y cofundador de **Soluciones en Innovación TER-IA**, empresa mexicana de software e IA. Me encargo de producto, tecnología y operación técnica, y construyo soluciones que las pymes pueden usar desde el primer día.
 
 ## 🛠️ En lo que trabajo
 
