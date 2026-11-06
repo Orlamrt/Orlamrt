@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Orlando Martínez 👋</h1>
 
 <p align="center">
-  <b>CTO y Fundador en <a href="https://ter-ia.com">TER-IA</a></b><br>
+  <b>CTO y CoFundador en <a href="https://ter-ia.com">TER-IA</a></b><br>
   Software e inteligencia artificial para empresas en México
 </p>
 
